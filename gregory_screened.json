@@ -1,0 +1,22 @@
+[
+  {
+    "id": "NCT07187388",
+    "title": "Investigating the Impact of Electrical Stimulation on Facial Pain, Jaw Movement and Oral Health in People With Motor Neuron Disease.",
+    "url": "https://clinicaltrials.gov/study/NCT07187388",
+    "email": "kayla.chomko@nova.edu",
+    "contact_name": "Kayla Chomko, PT, DPT",
+    "email_source": "centralContacts",
+    "inclusion_questions": "[DRY RUN \u2014 Ollama not called]",
+    "exclusion_flags": "[DRY RUN \u2014 Ollama not called]"
+  },
+  {
+    "id": "NCT06844370",
+    "title": "Home Versus Hospital Based NIV Care in MND",
+    "url": "https://clinicaltrials.gov/study/NCT06844370",
+    "email": "dariusz.wozniak@nhs.net",
+    "contact_name": "Dariusz Wozniak",
+    "email_source": "centralContacts",
+    "inclusion_questions": "[DRY RUN \u2014 Ollama not called]",
+    "exclusion_flags": "[DRY RUN \u2014 Ollama not called]"
+  }
+]
